@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NandDump": {
+      "commandName": "Project",
+      "commandLineArgs": "dtb.udump devtree.dtb"
+    }
+  }
+}
